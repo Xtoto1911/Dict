@@ -9,6 +9,9 @@ import java.util.Map;
 public abstract class AbsDictionary {
     private Map<String,String> dictionary = new HashMap<String,String>();
 
+    public AbsDictionary(String path) throws IOException {
+        fill(path);
+    }
     public abstract String getRagex();
     public boolean add(String key, String val){
         if(!key.matches(getRagex()) || dictionary.containsKey(key)){

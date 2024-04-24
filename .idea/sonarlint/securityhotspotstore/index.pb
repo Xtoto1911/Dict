@@ -14,3 +14,5 @@ Q.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 \
 ,src/main/java/org/example/AbsDictionary.java,c\0\c03d284272c0386a781e98e77b6d911f9b6d3b58
+^
+.src/main/java/org/example/LatinDictionary.java,a\e\aed4713203540ccdbb6b05fee9fc5173f825dcd7
