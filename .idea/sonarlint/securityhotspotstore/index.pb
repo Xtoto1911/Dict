@@ -16,3 +16,5 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 ,src/main/java/org/example/AbsDictionary.java,c\0\c03d284272c0386a781e98e77b6d911f9b6d3b58
 ^
 .src/main/java/org/example/LatinDictionary.java,a\e\aed4713203540ccdbb6b05fee9fc5173f825dcd7
+\
+,src/main/java/org/example/NumDictionary.java,9\f\9f2038f25dc500a0b7f99e4aaf787f740c5b19f1
